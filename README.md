@@ -1,2 +1,2 @@
-# bandcamp-api
+# Bandcamp API
 Bandcamp API wrapper
