@@ -2,271 +2,264 @@
   "results": [
     {
       "type": "artist",
-      "name": "Marcus D",
-      "url": "https://marcusd.net",
-      "imageUrl": "https://f4.bcbits.com/img/0018969752_23.jpg",
-      "tags": [
-        "Hip-Hop/Rap",
-        "lofi",
-        "dilla",
-        "instrumental-hip-hop",
-        "nujabes",
-        "chillhop"
-      ],
-      "genre": " Hip-Hop/Rap",
-      "location": "Tokyo, Japan"
-    },
-    {
-      "type": "album",
-      "name": "Retro'd 2",
-      "url": "https://marcusd.net/album/retrod-2",
-      "imageUrl": "https://f4.bcbits.com/img/a0573415372_7.jpg",
-      "tags": [
-        "Japan",
-        "nujabes",
-        "videogameremix",
-        "dilla",
-        "chiptune",
-        "Hip-Hop/Rap",
-        "lofi",
-        "supernintendo",
-        "chillhop",
-        "instrumental-hip-hop",
-        "Tokyo",
-        "Japan",
-        "Tokyo",
-        "videogamemusic"
-      ],
-      "releaseDate": "06 March 2018",
-      "numTracks": 20,
-      "numMinutes": 72,
-      "artist": "Marcus D"
-    },
-    {
-      "type": "fan",
-      "name": "Marcus",
-      "url": "https://bandcamp.com/sucramoner",
-      "imageUrl": "https://f4.bcbits.com/img/0019156800_23.jpg",
-      "tags": [],
-      "genre": " Electronic"
-    },
-    {
-      "type": "artist",
-      "name": "Marcus Warner",
-      "url": "https://marcuswarnermusic.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0017675733_23.jpg",
-      "tags": [
-        "classical",
-        "Soundtrack",
-        "epic",
-        "instrumental",
-        "uplifting",
-        "filmscore"
-      ],
-      "genre": " Soundtrack",
-      "location": "England, UK"
-    },
-    {
-      "type": "artist",
-      "name": "Marc UÅ",
-      "url": "https://marcua.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0017584429_23.jpg",
-      "tags": [
-        "vaporwave",
-        "Electronic",
-        "synthwave",
-        "Prog",
-        "outrun"
-      ],
-      "genre": " Electronic",
-      "location": "Västerbotten County, Sweden"
-    },
-    {
-      "type": "artist",
-      "name": "Marcus",
-      "url": "https://xmarcusi.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0008597165_23.jpg",
-      "tags": [
-        "underground",
-        "HipHop",
-        "undergroundhiphop",
-        "Hip-Hop/Rap",
-        "RnB",
-        "Trap"
-      ],
-      "genre": " Hip-Hop/Rap",
-      "location": "Toronto, Ontario"
-    },
-    {
-      "type": "artist",
-      "name": "Marcus",
-      "url": "https://markierawdivercity.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0005312235_23.jpg",
-      "tags": [
-        "HipHop",
-        "Melbourne",
-        "Hip-Hop/Rap",
-        "90'sRD"
-      ],
-      "genre": " Hip-Hop/Rap",
-      "location": "Melbourne, Australia"
-    },
-    {
-      "type": "artist",
       "name": "Marcu Rares",
       "url": "https://marcurares.bandcamp.com",
       "imageUrl": "https://f4.bcbits.com/img/0012502943_23.jpg",
       "tags": [
-        "Electronic",
-        "DeepHouse",
-        "DeepTech",
         "Techno.",
         "Experimental",
-        "House"
+        "House",
+        "Electronic",
+        "DeepHouse",
+        "DeepTech"
       ],
       "genre": " Electronic",
       "location": "Romania"
     },
     {
-      "type": "artist",
-      "name": "Marcus",
-      "url": "https://marcus9.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0019074497_23.jpg",
+      "type": "album",
+      "name": "Lunatique",
+      "url": "https://marcurares.bandcamp.com/album/lunatique",
+      "imageUrl": "https://f4.bcbits.com/img/a3862265570_7.jpg",
       "tags": [
-        "instrumental",
-        "Hip-Hop/Rap",
-        "Hip-Hop",
-        "Rap",
-        "HipHop",
-        "boombap"
-      ],
-      "genre": " Hip-Hop/Rap",
-      "location": "Queens, New York"
-    },
-    {
-      "type": "artist",
-      "name": "Marcus",
-      "url": "https://marcusmusic.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0007957111_23.jpg",
-      "tags": [
-        "acoustic",
-        "chillout",
+        "Romania",
+        "DeepHouse",
+        "House",
+        "Experimental",
+        "DeepTech",
         "Electronic",
-        "chill",
-        "downbeat"
+        "Techno."
       ],
-      "genre": " Electronic",
-      "location": "Bradford, UK"
+      "releaseDate": "29 November 2017",
+      "numTracks": 3,
+      "numMinutes": 30,
+      "artist": "Marcu Rares"
     },
     {
-      "type": "artist",
-      "name": "Marcus",
-      "url": "https://marcus.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0015610151_23.jpg",
+      "type": "album",
+      "name": "Mind Palace",
+      "url": "https://simbiozarecords.bandcamp.com/album/mind-palace",
+      "imageUrl": "https://f4.bcbits.com/img/a3868219747_7.jpg",
       "tags": [
-        "hiphop",
-        "beats",
-        "rap",
-        "soul",
-        "instrumental",
-        "Hip-Hop/Rap"
+        "Bucharest",
+        "experimentalelectronic",
+        "minimal",
+        "Romania",
+        "breakbeat",
+        "Electronic"
       ],
-      "genre": " Hip-Hop/Rap",
-      "location": "Austin, Texas"
+      "releaseDate": "01 February 2019",
+      "numTracks": 3,
+      "numMinutes": 42,
+      "artist": "Marcu Rares"
     },
     {
-      "type": "artist",
-      "name": "Marcus",
-      "url": "https://the-future-is-marcus.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0007399494_23.jpg",
-      "tags": [
-        "instrumental",
-        "london",
-        "producer",
-        "Electronic",
-        "electronic",
-        "ambient"
-      ],
-      "genre": " Electronic",
-      "location": "London, UK"
-    },
-    {
-      "type": "artist",
-      "name": "Marcus Gad",
-      "url": "https://marcusgad.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0014723680_23.jpg",
-      "tags": [
-        "Reggae",
-        "World",
-        "Roots"
-      ],
-      "genre": " Reggae",
-      "location": "New Caledonia"
-    },
-    {
-      "type": "fan",
-      "name": "Marcus",
-      "url": "https://bandcamp.com/marcusmenzer",
-      "imageUrl": "https://f4.bcbits.com/img/0004312546_23.jpg",
+      "type": "track",
+      "name": "Capricho Arabe",
+      "url": "https://welterecords.bandcamp.com/track/capricho-arabe",
+      "imageUrl": "https://f4.bcbits.com/img/a3058612939_7.jpg",
       "tags": [],
-      "genre": " Electronic"
+      "releaseDate": "26 August 2018",
+      "album": "Marcu Rares - 059 EP",
+      "artist": "Marcu Rares"
+    },
+    {
+      "type": "track",
+      "name": "Cx With You",
+      "url": "https://welterecords.bandcamp.com/track/cx-with-you",
+      "imageUrl": "https://f4.bcbits.com/img/a1552458147_7.jpg",
+      "tags": [],
+      "releaseDate": "26 August 2018",
+      "album": "Marcu Rares - 059 EP",
+      "artist": "Marcu Rares"
     },
     {
       "type": "artist",
-      "name": "Marcus",
-      "url": "https://marcus5.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0006004175_23.jpg",
+      "name": "Marc Ribot",
+      "url": "https://marcribot.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/0006892132_23.jpg",
       "tags": [
-        "swing",
-        "greatamericansongbook",
-        "Soul",
         "Jazz"
       ],
       "genre": " Jazz",
-      "location": "England, UK"
+      "location": "New York, New York"
     },
     {
-      "type": "artist",
-      "name": "MARCUS",
-      "url": "https://marcusk.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/a3085153708_7.jpg",
+      "type": "track",
+      "name": "Marcu Rares - Minute",
+      "url": "https://simbiozarecords.bandcamp.com/track/marcu-rares-minute",
+      "imageUrl": "https://f4.bcbits.com/img/a3868219747_7.jpg",
       "tags": [
-        "Rock",
-        "groovy",
-        "funky",
-        "bluesy",
-        "swing",
-        "acoustic"
-      ],
-      "genre": " Rock",
-      "location": "Germany"
-    },
-    {
-      "type": "artist",
-      "name": "Marcus",
-      "url": "https://marcusorion.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0016538148_23.jpg",
-      "tags": [
-        "darkalternativeambient",
-        "Ambient"
-      ],
-      "genre": " Ambient",
-      "location": "Netherlands"
-    },
-    {
-      "type": "artist",
-      "name": "marcus",
-      "url": "https://marcusdusk.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/a2048627573_7.jpg",
-      "tags": [
-        "acoustic",
-        "Pop",
         "Electronic",
-        "indierock",
-        "MPB"
+        "DeepHouse",
+        "experimentalelectronic",
+        "House"
       ],
-      "genre": " Pop",
-      "location": "Florida"
+      "releaseDate": "01 February 2019",
+      "album": "Mind Palace",
+      "artist": "Marcu Rares"
+    },
+    {
+      "type": "artist",
+      "name": "Marc Romboy",
+      "url": "https://marcromboy.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/0008427311_23.jpg",
+      "tags": [
+        "TechHouse",
+        "House",
+        "Electronic",
+        "Techno",
+        "Electronica"
+      ],
+      "genre": " Electronic",
+      "location": "NRW, Germany"
+    },
+    {
+      "type": "artist",
+      "name": "Marc R.",
+      "url": "https://itaintfair.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/a3492476702_7.jpg",
+      "tags": [
+        "Hip-Hop/Rap"
+      ],
+      "genre": " Hip-Hop/Rap",
+      "location": "New York, New York"
+    },
+    {
+      "type": "album",
+      "name": "Songs Of Resistance 1942 - 2018",
+      "url": "https://marcribot.bandcamp.com/album/songs-of-resistance-1942-2018",
+      "imageUrl": "https://f4.bcbits.com/img/a0780601567_7.jpg",
+      "tags": [
+        "Jazz",
+        "UnitedStates",
+        "NewYork"
+      ],
+      "releaseDate": "14 September 2018",
+      "numTracks": 11,
+      "numMinutes": 54,
+      "artist": "Marc Ribot"
+    },
+    {
+      "type": "artist",
+      "name": "Marc RZ",
+      "url": "https://marcrz17.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/0013340820_23.jpg",
+      "tags": [
+        "techno",
+        "experimental",
+        "HipHop",
+        "Electronic",
+        "lofi",
+        "Drum&Bass"
+      ],
+      "genre": " Electronic",
+      "location": "Saint Petersburg, Russia"
+    },
+    {
+      "type": "artist",
+      "name": "Marc Rebillet",
+      "url": "https://marcrebillet.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/0015545505_23.jpg",
+      "tags": [
+        "funk",
+        "Electronic",
+        "Comedy",
+        "Rap",
+        "Soul",
+        "Hip-Hop"
+      ],
+      "genre": " Electronic",
+      "location": "New York, New York"
+    },
+    {
+      "type": "album",
+      "name": "Half Way Happy",
+      "url": "https://itaintfair.bandcamp.com/album/half-way-happy",
+      "imageUrl": "https://f4.bcbits.com/img/a3492476702_7.jpg",
+      "tags": [
+        "UnitedStates",
+        "R&B",
+        "Electronic",
+        "Hip-Hop/Rap",
+        "Soul",
+        "House",
+        "NewYork",
+        "love"
+      ],
+      "releaseDate": "18 November 2018",
+      "numTracks": 7,
+      "numMinutes": 19,
+      "artist": "Marc R."
+    },
+    {
+      "type": "artist",
+      "name": "Adam Arcuragi",
+      "url": "https://adamarcuragi.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/0000042647_23.jpg",
+      "tags": [
+        "DeathGospel",
+        "Americana",
+        "Folk",
+        "Soul"
+      ],
+      "genre": " Folk",
+      "location": "Georgia"
+    },
+    {
+      "type": "artist",
+      "name": "Marc Roy",
+      "url": "https://marcroy.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/a0992374032_7.jpg",
+      "tags": [
+        "Progressive",
+        "Ambient",
+        "Alternative",
+        "Rock",
+        "Groove",
+        "Acoustic"
+      ],
+      "genre": " Alternative",
+      "location": "Ottawa, Ontario"
+    },
+    {
+      "type": "artist",
+      "name": "Marcuria",
+      "url": "https://marcuria.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/0019150733_23.jpg",
+      "tags": [
+        "EDM",
+        "chill",
+        "Alternative",
+        "cloud",
+        "ethereal",
+        "Trap"
+      ],
+      "genre": " Alternative",
+      "location": "Buenos Aires, Argentina"
+    },
+    {
+      "type": "album",
+      "name": "ABBREVIATIONS",
+      "url": "https://marcrz17.bandcamp.com/album/abbreviations",
+      "imageUrl": "https://f4.bcbits.com/img/a0013612017_7.jpg",
+      "tags": [
+        "techno",
+        "Drum&Bass",
+        "lofi",
+        "Experimental",
+        "Russia",
+        "Electronic",
+        "noise",
+        "experimental",
+        "SaintPetersburg",
+        "HipHop"
+      ],
+      "releaseDate": "08 May 2018",
+      "numTracks": 10,
+      "numMinutes": 27,
+      "artist": "razuvaev.nickolay@gmail.com"
     }
-  ]
+  ],
+  "total": 17
 }

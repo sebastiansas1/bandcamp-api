@@ -85,18 +85,6 @@ aws4@^1.8.0:
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.9.1.tgz#7e33d8f7d449b3f673cd72deb9abdc552dbe528e"
   integrity sha512-wMHVg2EOHaMRxbzgFJ9gtjOOCrI80OHLG14rxi28XwOW8ux6IiEbRCGGGqCtdAIg4FQCbW20k9RsT4y3gJlFug==
 
-bandcamp-scraper@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/bandcamp-scraper/-/bandcamp-scraper-1.2.5.tgz#219b5b402e3672364dd276d2b833e7142a31293d"
-  integrity sha512-AZc+RrcPnebrxLRhLQDhQWPS6iVElovNdHhlIHz177T5ZAJj+6ewYtv5TqvxAY8drgIU2u0haUoMqSuM+glHwQ==
-  dependencies:
-    ajv "^4.11.8"
-    cheerio "^0.22.0"
-    json5 "^0.5.1"
-    linez "^4.1.4"
-    scrape-it "^3.3.2"
-    tinyreq "^3.2.5"
-
 barbe@^3.0.4:
   version "3.0.15"
   resolved "https://registry.yarnpkg.com/barbe/-/barbe-3.0.15.tgz#924fbf7a7bd7e55b4f01b6d16b7e7f650233548b"
@@ -832,6 +820,11 @@ media-typer@0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
   integrity sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=
+
+memory-cache@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/memory-cache/-/memory-cache-0.2.0.tgz#7890b01d52c00c8ebc9d533e1f8eb17e3034871a"
+  integrity sha1-eJCwHVLADI68nVM+H46xfjA0hxo=
 
 merge-descriptors@1.0.1:
   version "1.0.1"

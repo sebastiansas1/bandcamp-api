@@ -1,19 +1,21 @@
-const bandcamp = require('bandcamp-scraper');
+const bandcamp = require('../scraper/lib/index');
 const router = require('express').Router();
+const cacheMiddleware = require('../middleware/cacheMiddleware');
 
-router.get('/search', async (req, res) => {
+router.get('/search', cacheMiddleware, async (req, res) => {
   const { query, page } = req.query;
   const params = { query, page: Number(page) };
-  try {
-    const results = await bandcamp.search(params);
-    const filteredResults = results
-      .filter(({ type }) => !['fan', 'label'].includes(type))
-      .filter(({ imageUrl }) => imageUrl != null);
+  return res.status(201).json({ message: 'All good here' });
+  // try {
+  //   const results = await bandcamp.search(params);
+  //   const filteredResults = results
+  //     .filter(({ type }) => !['fan', 'label'].includes(type))
+  //     .filter(({ imageUrl }) => imageUrl != null);
 
-    return res.status(201).json({ results: filteredResults, total: filteredResults.length });
-  } catch (error) {
-    return res.status(500).json({ message: 'Error loading artists' });
-  }
+  //   return res.status(201).json({ results: filteredResults, total: filteredResults.length });
+  // } catch (error) {
+  //   return res.status(500).json({ message: 'Error loading artists' });
+  // }
 });
 
 router.get('/albums', async (req, res) => {
