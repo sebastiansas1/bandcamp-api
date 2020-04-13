@@ -1,4 +1,8 @@
+const BandcampCache = require('../cache/BandcampCache');
+
+const cache = new BandcampCache();
+
 module.exports = (req, res, next) => {
-  console.log(req.originalUrl);
+  if (cache.exists(req)) return res.status(201).json(cache.get(req));
   next();
 };
