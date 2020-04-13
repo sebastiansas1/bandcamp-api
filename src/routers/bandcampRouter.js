@@ -17,6 +17,7 @@ router.get('/search', cacheMiddleware, async (req, res) => {
 
     const data = { results: filteredResults, total: filteredResults.length };
     cache.put(req, data);
+    console.log(`Memory cache entries increased to ---> ${cache.memSize()}`);
     return res.status(201).json(data);
   } catch (error) {
     return res.status(500).json({ message: 'Error loading artists' });
@@ -30,6 +31,7 @@ router.get('/albums', cacheMiddleware, async (req, res) => {
     const albums = await Promise.all(albumUrls.map((albumUrl) => bandcamp.getAlbumInfo(albumUrl)));
     const data = { results: albums, total: albums.length };
     cache.put(req, data);
+    console.log(`Memory cache entries increased to ---> ${cache.memSize()}`);
     return res.status(201).json(data);
   } catch (error) {
     return res.status(500).json({ message: 'Error loading albums' });
