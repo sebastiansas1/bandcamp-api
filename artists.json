@@ -6,12 +6,12 @@
       "url": "https://marcurares.bandcamp.com",
       "imageUrl": "https://f4.bcbits.com/img/0012502943_23.jpg",
       "tags": [
-        "Techno.",
-        "Experimental",
-        "House",
         "Electronic",
         "DeepHouse",
-        "DeepTech"
+        "DeepTech",
+        "Techno.",
+        "Experimental",
+        "House"
       ],
       "genre": " Electronic",
       "location": "Romania"
@@ -22,13 +22,13 @@
       "url": "https://marcurares.bandcamp.com/album/lunatique",
       "imageUrl": "https://f4.bcbits.com/img/a3862265570_7.jpg",
       "tags": [
-        "Romania",
-        "DeepHouse",
         "House",
         "Experimental",
+        "Techno.",
         "DeepTech",
-        "Electronic",
-        "Techno."
+        "Romania",
+        "DeepHouse",
+        "Electronic"
       ],
       "releaseDate": "29 November 2017",
       "numTracks": 3,
@@ -41,11 +41,11 @@
       "url": "https://simbiozarecords.bandcamp.com/album/mind-palace",
       "imageUrl": "https://f4.bcbits.com/img/a3868219747_7.jpg",
       "tags": [
-        "Bucharest",
         "experimentalelectronic",
-        "minimal",
-        "Romania",
         "breakbeat",
+        "minimal",
+        "Bucharest",
+        "Romania",
         "Electronic"
       ],
       "releaseDate": "01 February 2019",
@@ -74,192 +74,40 @@
       "artist": "Marcu Rares"
     },
     {
-      "type": "artist",
-      "name": "Marc Ribot",
-      "url": "https://marcribot.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0006892132_23.jpg",
-      "tags": [
-        "Jazz"
-      ],
-      "genre": " Jazz",
-      "location": "New York, New York"
-    },
-    {
       "type": "track",
       "name": "Marcu Rares - Minute",
       "url": "https://simbiozarecords.bandcamp.com/track/marcu-rares-minute",
       "imageUrl": "https://f4.bcbits.com/img/a3868219747_7.jpg",
       "tags": [
-        "Electronic",
-        "DeepHouse",
+        "House",
         "experimentalelectronic",
-        "House"
+        "DeepHouse",
+        "Electronic"
       ],
       "releaseDate": "01 February 2019",
       "album": "Mind Palace",
       "artist": "Marcu Rares"
     },
     {
-      "type": "artist",
-      "name": "Marc Romboy",
-      "url": "https://marcromboy.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0008427311_23.jpg",
-      "tags": [
-        "TechHouse",
-        "House",
-        "Electronic",
-        "Techno",
-        "Electronica"
-      ],
-      "genre": " Electronic",
-      "location": "NRW, Germany"
+      "type": "track",
+      "name": "Marcu Rares - Flamingo Ahead",
+      "url": "https://thelabrecordsro.bandcamp.com/track/marcu-rares-flamingo-ahead",
+      "imageUrl": "https://f4.bcbits.com/img/a2051681609_7.jpg",
+      "tags": [],
+      "releaseDate": "24 December 2018",
+      "album": "Various Artists - LAB X Storytellers",
+      "artist": "The Lab Records"
     },
     {
-      "type": "artist",
-      "name": "Marc R.",
-      "url": "https://itaintfair.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/a3492476702_7.jpg",
-      "tags": [
-        "Hip-Hop/Rap"
-      ],
-      "genre": " Hip-Hop/Rap",
-      "location": "New York, New York"
-    },
-    {
-      "type": "album",
-      "name": "Songs Of Resistance 1942 - 2018",
-      "url": "https://marcribot.bandcamp.com/album/songs-of-resistance-1942-2018",
-      "imageUrl": "https://f4.bcbits.com/img/a0780601567_7.jpg",
-      "tags": [
-        "Jazz",
-        "UnitedStates",
-        "NewYork"
-      ],
-      "releaseDate": "14 September 2018",
-      "numTracks": 11,
-      "numMinutes": 54,
-      "artist": "Marc Ribot"
-    },
-    {
-      "type": "artist",
-      "name": "Marc RZ",
-      "url": "https://marcrz17.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0013340820_23.jpg",
-      "tags": [
-        "techno",
-        "experimental",
-        "HipHop",
-        "Electronic",
-        "lofi",
-        "Drum&Bass"
-      ],
-      "genre": " Electronic",
-      "location": "Saint Petersburg, Russia"
-    },
-    {
-      "type": "artist",
-      "name": "Marc Rebillet",
-      "url": "https://marcrebillet.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0015545505_23.jpg",
-      "tags": [
-        "funk",
-        "Electronic",
-        "Comedy",
-        "Rap",
-        "Soul",
-        "Hip-Hop"
-      ],
-      "genre": " Electronic",
-      "location": "New York, New York"
-    },
-    {
-      "type": "album",
-      "name": "Half Way Happy",
-      "url": "https://itaintfair.bandcamp.com/album/half-way-happy",
-      "imageUrl": "https://f4.bcbits.com/img/a3492476702_7.jpg",
-      "tags": [
-        "UnitedStates",
-        "R&B",
-        "Electronic",
-        "Hip-Hop/Rap",
-        "Soul",
-        "House",
-        "NewYork",
-        "love"
-      ],
-      "releaseDate": "18 November 2018",
-      "numTracks": 7,
-      "numMinutes": 19,
-      "artist": "Marc R."
-    },
-    {
-      "type": "artist",
-      "name": "Adam Arcuragi",
-      "url": "https://adamarcuragi.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0000042647_23.jpg",
-      "tags": [
-        "DeathGospel",
-        "Americana",
-        "Folk",
-        "Soul"
-      ],
-      "genre": " Folk",
-      "location": "Georgia"
-    },
-    {
-      "type": "artist",
-      "name": "Marc Roy",
-      "url": "https://marcroy.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/a0992374032_7.jpg",
-      "tags": [
-        "Progressive",
-        "Ambient",
-        "Alternative",
-        "Rock",
-        "Groove",
-        "Acoustic"
-      ],
-      "genre": " Alternative",
-      "location": "Ottawa, Ontario"
-    },
-    {
-      "type": "artist",
-      "name": "Marcuria",
-      "url": "https://marcuria.bandcamp.com",
-      "imageUrl": "https://f4.bcbits.com/img/0019150733_23.jpg",
-      "tags": [
-        "EDM",
-        "chill",
-        "Alternative",
-        "cloud",
-        "ethereal",
-        "Trap"
-      ],
-      "genre": " Alternative",
-      "location": "Buenos Aires, Argentina"
-    },
-    {
-      "type": "album",
-      "name": "ABBREVIATIONS",
-      "url": "https://marcrz17.bandcamp.com/album/abbreviations",
-      "imageUrl": "https://f4.bcbits.com/img/a0013612017_7.jpg",
-      "tags": [
-        "techno",
-        "Drum&Bass",
-        "lofi",
-        "Experimental",
-        "Russia",
-        "Electronic",
-        "noise",
-        "experimental",
-        "SaintPetersburg",
-        "HipHop"
-      ],
-      "releaseDate": "08 May 2018",
-      "numTracks": 10,
-      "numMinutes": 27,
-      "artist": "razuvaev.nickolay@gmail.com"
+      "type": "track",
+      "name": "Mind, Body, and Soul",
+      "url": "https://jboogie-om.bandcamp.com/track/mind-body-and-soul",
+      "imageUrl": "https://f4.bcbits.com/img/a2430816358_7.jpg",
+      "tags": [],
+      "releaseDate": "06 November 2014",
+      "album": "J Boogie Bundle",
+      "artist": "Marc Rae"
     }
   ],
-  "total": 17
+  "total": 8
 }

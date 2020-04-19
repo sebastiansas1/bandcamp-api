@@ -38,4 +38,34 @@ router.get('/albums', cacheMiddleware, async (req, res) => {
   }
 });
 
+router.get('/tracks', cacheMiddleware, async (req, res) => {
+  const { albumUrl } = req.query;
+  try {
+    const tracks = await bandcamp.getAlbumInfo(albumUrl);
+    const data = { results: tracks, total: tracks.length };
+    cache.put(req, data);
+    console.log(`Memory cache entries increased to ---> ${cache.memSize()}`);
+    return res.status(201).json(data);
+  } catch (error) {
+    return res.status(500).json({ message: 'Error loading tracks' });
+  }
+});
+
+router.get('/collate', cacheMiddleware, async (req, res) => {
+  const { albumName } = req.query;
+  const params = { query: albumName, page: 1 };
+  try {
+    const results = await bandcamp.search(params);
+    const filteredResults = results.filter(({ type }) => ['album'].includes(type));
+    const firstResult = filteredResults[0];
+    const tracks = await bandcamp.getAlbumInfo(firstResult.url);
+    const data = { results: tracks, total: tracks.length };
+    cache.put(req, data);
+    console.log(`Memory cache entries increased to ---> ${cache.memSize()}`);
+    return res.status(201).json(data);
+  } catch (error) {
+    return res.status(500).json({ message: 'Error loading tracks' });
+  }
+});
+
 module.exports = router;

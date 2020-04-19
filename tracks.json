@@ -1,0 +1,240 @@
+{
+  "results": {
+    "tags": [
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": "deep house"
+      },
+      {
+        "name": "deep tech"
+      },
+      {
+        "name": "electronic"
+      },
+      {
+        "name": "experimental"
+      },
+      {
+        "name": "house"
+      },
+      {
+        "name": "techno."
+      },
+      {
+        "name": "Romania"
+      }
+    ],
+    "artist": "Marcu Rares",
+    "title": "Lunatique",
+    "imageUrl": "https://f4.bcbits.com/img/a3862265570_2.jpg",
+    "tracks": [
+      {
+        "name": "Lunatique",
+        "url": "https://marcurares.bandcamp.com/track/lunatique",
+        "duration": "10:16"
+      },
+      {
+        "name": "Honey",
+        "url": "https://marcurares.bandcamp.com/track/honey",
+        "duration": "11:15"
+      },
+      {
+        "name": "Billie Eilish - Six Feet Under (Marcu Rares Edit)",
+        "url": "https://marcurares.bandcamp.com/track/billie-eilish-six-feet-under-marcu-rares-edit",
+        "duration": "08:27"
+      }
+    ],
+    "raw": {
+      "current": {
+        "type": "album",
+        "minimum_price": 7,
+        "art_id": 3862265570,
+        "selling_band_id": 544922295,
+        "credits": null,
+        "require_email_0": null,
+        "killed": null,
+        "release_date": "29 Nov 2017 00:00:00 GMT",
+        "band_id": 544922295,
+        "featured_track_id": 2374232958,
+        "publish_date": "29 Nov 2017 19:34:56 GMT",
+        "new_date": "29 Nov 2017 19:04:25 GMT",
+        "upc": null,
+        "set_price": 7,
+        "is_set_price": null,
+        "purchase_url": null,
+        "download_desc_id": null,
+        "new_desc_format": 1,
+        "auto_repriced": null,
+        "private": null,
+        "audit": 0,
+        "purchase_title": null,
+        "minimum_price_nonzero": 7,
+        "download_pref": 2,
+        "id": 2215824518,
+        "mod_date": "30 Sep 2019 07:50:18 GMT",
+        "about": null,
+        "artist": null,
+        "require_email": null,
+        "title": "Lunatique"
+      },
+      "is_preorder": null,
+      "album_is_preorder": null,
+      "album_release_date": "29 Nov 2017 00:00:00 GMT",
+      "preorder_count": null,
+      "hasAudio": true,
+      "art_id": 3862265570,
+      "trackinfo": [
+        {
+          "is_capped": null,
+          "sizeof_lyrics": 0,
+          "file": {
+            "mp3-128": "https://t4.bcbits.com/stream/d07d7fe3d4cc5aacf132d7ebd7480b42/mp3-128/2374232958?p=0&ts=1587420777&t=a27a98ec259ac5198f467de2f6329fe13ff57ad2&token=1587420777_e016bb3ad60aa9c7e5cdd93aa49b21a8f8d41def"
+          },
+          "video_featured": null,
+          "has_lyrics": false,
+          "video_source_type": null,
+          "alt_link": null,
+          "duration": 616.875,
+          "has_info": false,
+          "track_license_id": null,
+          "video_source_id": null,
+          "track_num": 1,
+          "encoding_error": null,
+          "is_downloadable": true,
+          "license_type": 1,
+          "video_mobile_url": null,
+          "lyrics": null,
+          "album_preorder": false,
+          "track_id": 2374232958,
+          "encoding_pending": null,
+          "video_id": null,
+          "is_draft": false,
+          "has_free_download": null,
+          "private": null,
+          "encodings_id": 2646522359,
+          "video_poster_url": null,
+          "unreleased_track": false,
+          "play_count": null,
+          "free_album_download": false,
+          "id": 2374232958,
+          "video_caption": null,
+          "streaming": 1,
+          "title_link": "/track/lunatique",
+          "title": "Lunatique"
+        },
+        {
+          "is_capped": null,
+          "sizeof_lyrics": 0,
+          "file": {
+            "mp3-128": "https://t4.bcbits.com/stream/dc874a3e39c10509caebf9e592df99f5/mp3-128/1060058403?p=0&ts=1587420777&t=1178b862f67d78ee718fb9eec17f043ad52f781e&token=1587420777_545f6589d6d9c74843ee6ac76ddb32534fec1da9"
+          },
+          "video_featured": null,
+          "has_lyrics": false,
+          "video_source_type": null,
+          "alt_link": null,
+          "duration": 675.122,
+          "has_info": false,
+          "track_license_id": null,
+          "video_source_id": null,
+          "track_num": 2,
+          "encoding_error": null,
+          "is_downloadable": true,
+          "license_type": 1,
+          "video_mobile_url": null,
+          "lyrics": null,
+          "album_preorder": false,
+          "track_id": 1060058403,
+          "encoding_pending": null,
+          "video_id": null,
+          "is_draft": false,
+          "has_free_download": null,
+          "private": null,
+          "encodings_id": 3889337532,
+          "video_poster_url": null,
+          "unreleased_track": false,
+          "play_count": null,
+          "free_album_download": false,
+          "id": 1060058403,
+          "video_caption": null,
+          "streaming": 1,
+          "title_link": "/track/honey",
+          "title": "Honey"
+        },
+        {
+          "is_capped": null,
+          "sizeof_lyrics": 0,
+          "file": {
+            "mp3-128": "https://t4.bcbits.com/stream/8ba9b67264aa0fdace21f6162234671a/mp3-128/88548210?p=0&ts=1587420777&t=711c7f67d247af86bec6c58c958dd72d32365ee4&token=1587420777_42c7675d3433b09e5394da6a0eac67486a50f4c8"
+          },
+          "video_featured": null,
+          "has_lyrics": false,
+          "video_source_type": null,
+          "alt_link": null,
+          "duration": 507.84,
+          "has_info": false,
+          "track_license_id": null,
+          "video_source_id": null,
+          "track_num": 3,
+          "encoding_error": null,
+          "is_downloadable": true,
+          "license_type": 1,
+          "video_mobile_url": null,
+          "lyrics": null,
+          "album_preorder": false,
+          "track_id": 88548210,
+          "encoding_pending": null,
+          "video_id": null,
+          "is_draft": false,
+          "has_free_download": null,
+          "private": null,
+          "encodings_id": 787310894,
+          "video_poster_url": null,
+          "unreleased_track": false,
+          "play_count": null,
+          "free_album_download": false,
+          "id": 88548210,
+          "video_caption": null,
+          "streaming": 1,
+          "title_link": "/track/billie-eilish-six-feet-under-marcu-rares-edit",
+          "title": "Billie Eilish - Six Feet Under (Marcu Rares Edit)"
+        }
+      ],
+      "playing_from": "album page",
+      "featured_track_id": 2374232958,
+      "initial_track_num": null,
+      "packages": null,
+      "url": "http://marcurares.bandcamp.com/album/lunatique",
+      "defaultPrice": 7,
+      "freeDownloadPage": null,
+      "FREE": 1,
+      "PAID": 2,
+      "artist": "Marcu Rares",
+      "item_type": "album",
+      "id": 2215824518,
+      "last_subscription_item": null,
+      "has_discounts": null,
+      "is_bonus": null,
+      "play_cap_data": {
+        "streaming_limits_enabled": false,
+        "streaming_limit": 3
+      },
+      "client_id_sig": null,
+      "is_purchased": null,
+      "items_purchased": null,
+      "is_private_stream": null,
+      "is_band_member": null,
+      "licensed_version_ids": null,
+      "package_associated_license_id": null,
+      "tralbum_collect_info": {
+        "show_collect": true,
+        "show_wishlist_tooltip": false
+      }
+    },
+    "url": "https://marcurares.bandcamp.com/album/lunatique"
+  }
+}
