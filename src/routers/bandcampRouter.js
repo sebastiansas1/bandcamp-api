@@ -52,11 +52,11 @@ router.get('/tracks', cacheMiddleware, async (req, res) => {
 });
 
 router.get('/collate', cacheMiddleware, async (req, res) => {
-  const { albumName } = req.query;
+  const { albumName, artistName } = req.query;
   const params = { query: albumName, page: 1 };
   try {
     const results = await bandcamp.search(params);
-    const filteredResults = results.filter(({ type }) => ['album'].includes(type));
+    const filteredResults = results.filter(({ type, artist }) => ['album'].includes(type));
     const firstResult = filteredResults[0];
     const tracks = await bandcamp.getAlbumInfo(firstResult.url);
     const data = { results: tracks, total: tracks.length };
